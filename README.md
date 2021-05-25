@@ -5,7 +5,7 @@
 - 自动生成 PDF，全自动化流程
 
 ## 使用
-1. fork本项目后再clone到本地修改
+1. fork本项目后再clone到本地修改   lly
 2. 进入项目目录执行`npm i`安装依赖
 3. 执行`npm run dev`开始开发
 4. 修改完后执行`npm run pub`发布到ghpages
