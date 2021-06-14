@@ -288,7 +288,7 @@ a {
       width: 25%;
       @media screen and (max-width: 720px) {
         width: 100%;
-        margin-bottom: 5px;
+        margin-bottom: 10px;
       }
     }
     .item-more {
@@ -337,6 +337,7 @@ a {
   .practice {
     .item-time {
       width: 100%;
+      margin-top: 8px;
     }
   }
 }
